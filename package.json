@@ -24,7 +24,7 @@
         "/src"
     ],
     "dependencies": {
-        "@react-native-picker/picker": "^1.8.3",
+        "@react-native-picker/picker": "git://github.com/miguelafantunes/picker.git#9886f555cacfd0d62820e2dd39c1b5aae41688fc",
         "lodash.isequal": "^4.5.0"
     },
     "devDependencies": {
